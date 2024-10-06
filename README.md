@@ -32,11 +32,6 @@ I'm a **Software Developer** with a passion for **Web Development** and **IoT** 
 ---
 
 
----
-
-
----
-
 ## 📞 Contact Me
 <p align="center">
   <a href="mailto:sumanthkurapati74@gmail.com">
