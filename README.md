@@ -1,65 +1,67 @@
-# Hi, I'm K Venkata Sumanth 👋
+# Hi, I'm K Venkata Sumanth! 👋
 
-Welcome to my GitHub profile! I am a dedicated and results-driven **Software Developer** with a strong focus on **Web Development** and **IoT**. As a recent graduate, I am eager to contribute my technical skills and collaborate with professionals to create impactful solutions. My goal is to continuously learn and grow as a developer, while delivering high-quality software solutions that drive business value.
+![Welcome Banner](https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif)
 
----
-
-## 💡 About Me
-- 🎯 **Focused**: Passionate about leveraging technology to solve real-world problems and continuously enhance my skill set.
-- 🌟 **Goal-Oriented**: Committed to building efficient, scalable, and user-friendly applications.
-- 🚀 **Driven**: Actively seeking opportunities to apply my knowledge in a challenging and growth-focused environment.
+I'm a **Software Developer** with a passion for **Web Development** and **IoT** technologies. I enjoy solving complex problems and continuously learning new skills to stay on the cutting edge of the tech world. With a focus on productivity and efficiency, I am looking for opportunities to contribute to impactful projects and collaborate with talented teams.
 
 ---
 
-## 🔧 Skills & Expertise
-### Programming Languages
-- **Python**
-- **SQL**
-- **JavaScript**
-
-### Front-End Development
-- **HTML5, CSS3**
-- **JavaScript (ES6)**
-
-### Tools & Frameworks
-- **Bootstrap**
-- **React.js**
-
-### Databases
-- **MySQL**
-
-### Development Tools
-- **Visual Studio Code**
-- **Google Colab**
+## 🚀 About Me
+- 🎯 **Focused & Goal-Oriented**: Always striving to deliver the best results and exceed expectations.
+- 🌟 **Open to Learning**: Constantly exploring new tools, frameworks, and methodologies.
+- 💬 **Strong Communicator**: Able to articulate technical concepts effectively and work well in team settings.
+- 🌱 **Currently Exploring**: React.js, Node.js, and Cloud Computing.
 
 ---
 
-## 📜 Certifications & Training
+## 🔧 Technical Skills
+![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Tools & IDEs
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-%23F9AB00.svg?style=for-the-badge&logo=google-colab&logoColor=black)
+
+---
+
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="GitHub Streak" width="48%" />
+</p>
+
+---
+
+## 🏆 Certifications
 - **Agile Scrum Foundation**
 - **Introduction to Supervised & Unsupervised Learning (Machine Learning)**
 - **SQL (Basics & Intermediate)**
 
 ---
 
-## 🏆 What I Bring to the Table
-- **Team Player**: Capable of working effectively in collaborative environments.
-- **Quick Learner**: Adaptable and always open to learning new technologies and methodologies.
-- **Problem Solver**: Strong analytical thinking with a focus on creating optimal solutions.
+## 📞 Contact Me
+<p align="center">
+  <a href="mailto:sumanthkurapati74@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/venkata-sumanth-kurapati-b652b1283">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/your-username">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
 
 ---
 
-## 📈 Professional Interests
-I am keen on opportunities in **Software Development**, **Full-Stack Web Development**, and **IoT** domains. I am looking for roles that provide a platform to utilize my technical expertise and contribute to innovative projects that create value for users and businesses alike.
+## 🎯 Let's Connect!
+I am always open to opportunities in **Software Development**, **Full-Stack Web Development**, and **IoT** domains. If you are looking for a dedicated team player with a passion for technology and innovation, feel free to reach out.
 
----
-
-## 📞 Let's Connect!
-I am always open to connecting with professionals in the tech community. Whether it’s for collaboration, mentorship, or new opportunities, feel free to reach out:
-
-- **Email**: [sumanthkurapati74@gmail.com](mailto:sumanthkurapati74@gmail.com)
-- **LinkedIn**: [K Venkata Sumanth](https://www.linkedin.com/in/venkata-sumanth-kurapati-b652b1283)
-- **Phone**: +91 6305552499
-
----
-
-Thank you for visiting my profile! I look forward to connecting and collaborating with like-minded professionals.
+![Let's Connect](https://media.giphy.com/media/l4pTfx2qLszoacZRS/giphy.gif)
