@@ -1,8 +1,6 @@
 # Hi, I'm K Venkata Sumanth! 👋
 
-![Welcome Banner]
-
-I'm a **Software Developer** with a passion for **Web Development** and **IoT** technologies. I enjoy solving complex problems and continuously learning new skills to stay on the cutting edge of the tech world. With a focus on productivity and efficiency, I am looking for opportunities to contribute to impactful projects and collaborate with talented teams.
+I'm a **Software Developer** with a passion for **Web Development** .I enjoy solving complex problems and continuously learning new skills to stay on the cutting edge of the tech world. With a focus on productivity and efficiency, I am looking for opportunities to contribute to impactful projects and collaborate with talented teams.
 
 ---
 
@@ -10,7 +8,7 @@ I'm a **Software Developer** with a passion for **Web Development** and **IoT** 
 - 🎯 **Focused & Goal-Oriented**: Always striving to deliver the best results and exceed expectations.
 - 🌟 **Open to Learning**: Constantly exploring new tools, frameworks, and methodologies.
 - 💬 **Strong Communicator**: Able to articulate technical concepts effectively and work well in team settings.
-- 🌱 **Currently Exploring**: React.js, Node.js, and Cloud Computing.
+- 🌱 **Currently Exploring**: React.js, and Cloud Computing.
 
 ---
 
@@ -30,8 +28,6 @@ I'm a **Software Developer** with a passion for **Web Development** and **IoT** 
 ![Google Colab](https://img.shields.io/badge/Google_Colab-%23F9AB00.svg?style=for-the-badge&logo=google-colab&logoColor=black)
 
 ---
-
-
 ## 📞 Contact Me
 <p align="center">
   <a href="mailto:sumanthkurapati74@gmail.com">
@@ -44,9 +40,7 @@ I'm a **Software Developer** with a passion for **Web Development** and **IoT** 
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
-
 ---
-
 ## 🎯 Let's Connect!
 I am always open to opportunities in **Software Development**, **Full-Stack Web Development**, and **IoT** domains. If you are looking for a dedicated team player with a passion for technology and innovation, feel free to reach out.
 
