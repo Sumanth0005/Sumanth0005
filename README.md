@@ -1,6 +1,6 @@
 # Hi, I'm K Venkata Sumanth! 👋
 
-![Welcome Banner](https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif)
+![Welcome Banner]
 
 I'm a **Software Developer** with a passion for **Web Development** and **IoT** technologies. I enjoy solving complex problems and continuously learning new skills to stay on the cutting edge of the tech world. With a focus on productivity and efficiency, I am looking for opportunities to contribute to impactful projects and collaborate with talented teams.
 
@@ -59,4 +59,4 @@ I'm a **Software Developer** with a passion for **Web Development** and **IoT** 
 ## 🎯 Let's Connect!
 I am always open to opportunities in **Software Development**, **Full-Stack Web Development**, and **IoT** domains. If you are looking for a dedicated team player with a passion for technology and innovation, feel free to reach out.
 
-![Let's Connect](https://media.giphy.com/media/l4pTfx2qLszoacZRS/giphy.gif)
+![Let's Connect]
