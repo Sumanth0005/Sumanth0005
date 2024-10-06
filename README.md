@@ -30,18 +30,12 @@ Full-Stack Development: Perfecting my skills with React to create robust and use
 ![Google Colab](https://img.shields.io/badge/Google_Colab-%23F9AB00.svg?style=for-the-badge&logo=google-colab&logoColor=black)
 
 ---
-## 📞 Contact Me
-<p align="center">
-  <a href="mailto:sumanthkurapati74@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://www.linkedin.com/in/venkata-sumanth-kurapati-b652b1283">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/your-username">
-    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-</p>
+
+## 📫 **Connect with Me!**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venkata-sumanth-kurapati-b652b1283)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumanthkurapati74@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
+
 ---
 ## 🎯 Let's Connect!
 I am always open to opportunities in **Software Development**, **Full-Stack Web Development**, and **IoT** domains. If you are looking for a dedicated team player with a passion for technology and innovation, feel free to reach out.
