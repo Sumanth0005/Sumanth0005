@@ -34,10 +34,6 @@ I'm a **Software Developer** with a passion for **Web Development** and **IoT** 
 
 ---
 
-## 🏆 Certifications
-- **Agile Scrum Foundation**
-- **Introduction to Supervised & Unsupervised Learning (Machine Learning)**
-- **SQL (Basics & Intermediate)**
 
 ---
 
