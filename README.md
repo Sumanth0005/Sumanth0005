@@ -8,7 +8,9 @@ I'm a **Software Developer** with a passion for **Web Development** .I enjoy sol
 - 🎯 **Focused & Goal-Oriented**: Always striving to deliver the best results and exceed expectations.
 - 🌟 **Open to Learning**: Constantly exploring new tools, frameworks, and methodologies.
 - 💬 **Strong Communicator**: Able to articulate technical concepts effectively and work well in team settings.
-- 🌱 **Currently Exploring**: React.js, and Cloud Computing.
+- 🌱 Currently Excelling At:
+Full-Stack Development: Perfecting my skills with React to create robust and user-friendly applications.
+
 
 ---
 
