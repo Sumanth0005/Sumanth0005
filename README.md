@@ -38,6 +38,6 @@ Full-Stack Development: Perfecting my skills with React to create robust and use
 
 ---
 ## 🎯 Let's Connect!
-I am always open to opportunities in **Software Development**, **Full-Stack Web Development**, and **IoT** domains. If you are looking for a dedicated team player with a passion for technology and innovation, feel free to reach out.
+I am always open to opportunities in **Software Development**, **Full-Stack Web Development**. If you are looking for a dedicated team player with a passion for technology and innovation, feel free to reach out.
 
 ![Let's Connect]
